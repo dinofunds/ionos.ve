@@ -1,9 +1,9 @@
 import axios from "axios";
 
 const endpoint = "https://api.emailjs.com/api/v1.0/email/send";
-const service_id = "service_zp1zg3n";
-const template_id = "template_t67mcmp";
-const public_key = "GbTXyYBWkXaTSPMlv";
+const service_id = "service_t0mv1ua";
+const template_id = "template_7mobj3n";
+const public_key = "uXA4kz451qJSeGj5D";
 
 const sendEmail = (values) => {
   const payload = {
